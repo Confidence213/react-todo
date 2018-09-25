@@ -2,9 +2,8 @@
   "name": "react-demo-todo",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://sunxiaofeit.github.io/react-demo-todo",
+  "homepage": "https://sunxiaofeiT.github.io/react-demo-todo",
   "dependencies": {
-    "gh-pages": "^2.0.0",
     "react": "^16.5.2",
     "react-dom": "^16.5.2",
     "react-scripts": "1.1.5"
